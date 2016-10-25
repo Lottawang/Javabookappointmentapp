@@ -1,7 +1,6 @@
 import java.util.StringTokenizer;
 /*
  * @author DanfengWang
- * @STUDENT ID:104489084
  * @version Oct.3 2016
  */
 
