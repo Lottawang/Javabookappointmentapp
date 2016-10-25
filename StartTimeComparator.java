@@ -1,6 +1,6 @@
 /*
  * @author DanfengWang
- * @STUDENT ID:104489084
+
  * @version Oct.3 2016
  */
 import java.util.Comparator;
