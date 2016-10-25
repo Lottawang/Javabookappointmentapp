@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.Scanner;
 /*
  * @author DanfengWang
- * @STUDENT ID:104489084
+
  * @version Oct.3 2016
  */
 public class CappointmentApp {
